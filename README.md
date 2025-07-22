@@ -73,15 +73,6 @@ Tenho interesse em desenvolvimento de aplicativos, design de interfaces e usabil
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
 
-<img 
-    align="left" 
-    alt="STM32" 
-    title="STM32" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/STMicroelectronics_Logo.svg/512px-STMicroelectronics_Logo.svg.png" 
-/>
-
 
 <br/>
 <br/>
@@ -89,20 +80,21 @@ Tenho interesse em desenvolvimento de aplicativos, design de interfaces e usabil
 
 ### 📊 Estatísticas
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=yasmimrib&show_icons=true&theme=omni&locale=pt-br" 
-  />
-
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasmimrib&theme=omni&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
+<p align="center">
+  <table>
+    <tr>
+      <td>
+        <img
+          alt="GitHub Stats"
+          src="https://github-readme-stats.vercel.app/api?username=yasmimrib&show_icons=true&theme=omni&locale=pt-br"
+        />
+      </td>
+      <td>
+        <img
+          alt="GitHub Stats"
+          src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasmimrib&theme=omni&layout=compact&custom_title=Tecnologias&langs_count=9"
+        />
+      </td>
+    </tr>
+  </table>
 </p>
-
