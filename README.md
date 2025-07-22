@@ -64,6 +64,15 @@ Tenho interesse em desenvolvimento de aplicativos, design de interfaces e usabil
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" 
 />
 
+<img
+  align="left"
+  alt="Arduino"
+  title="Arduino"
+  width="30px"
+  style="padding-right: 10px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg"
+/>
+
 <img 
     align="left" 
     alt="Git" 
@@ -72,6 +81,16 @@ Tenho interesse em desenvolvimento de aplicativos, design de interfaces e usabil
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
+<img
+  align="left"
+  alt="Flutter"
+  title="Flutter"
+  width="30px"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg"
+/>
+          
+
+
 
 
 <br/>
