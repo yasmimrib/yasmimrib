@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Yasmim Ribeiro
+# 👩🏾‍💻 Yasmim Ribeiro
 
 **`Técnica em Desenvolvimento de Sistemas`**
 **`ETE FMC`**
