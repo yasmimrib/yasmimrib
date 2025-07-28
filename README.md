@@ -99,21 +99,4 @@ Tenho interesse em desenvolvimento de aplicativos, design de interfaces e usabil
 
 ### 📊 Estatísticas
 
-<p align="center">
-  <table>
-    <tr>
-      <td>
-        <img
-          alt="GitHub Stats"
-          src="https://github-readme-stats.vercel.app/api?username=yasmimrib&show_icons=true&theme=omni&locale=pt-br"
-        />
-      </td>
-      <td>
-        <img
-          alt="GitHub Stats"
-          src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasmimrib&theme=omni&layout=compact&custom_title=Tecnologias&langs_count=9"
-        />
-      </td>
-    </tr>
-  </table>
-</p>
+
