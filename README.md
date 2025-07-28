@@ -35,7 +35,7 @@ Tenho interesse em desenvolvimento de aplicativos, design de interfaces e usabil
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### 🤖 Linguagens e Tecnologias em Desenvolvimento
 
 <img 
     align="left" 
@@ -88,7 +88,11 @@ Tenho interesse em desenvolvimento de aplicativos, design de interfaces e usabil
   width="30px"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg"
 />
-          
+<img align="left" alt="VS Code" title="Visual Studio Code" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
+<img align="left" alt="Visual Studio" title="Visual Studio" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-plain.svg" />
+<img align="left" alt="Unity" title="Unity" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" />
+<br />
+
 
 
 
@@ -98,5 +102,24 @@ Tenho interesse em desenvolvimento de aplicativos, design de interfaces e usabil
 
 
 ### 📊 Estatísticas
+
+<p align="center">
+  <table>
+    <tr>
+      <td>
+        <img
+          alt="GitHub Stats"
+          src="https://github-readme-stats.vercel.app/api?username=yasmimrib&show_icons=true&theme=omni&locale=pt-br&cache_seconds=60"
+        />
+      </td>
+      <td>
+        <img
+          alt="Top Langs"
+          src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasmimrib&theme=omni&layout=compact&custom_title=Tecnologias&langs_count=9&cache_seconds=60"
+        />
+      </td>
+    </tr>
+  </table>
+</p>
 
 
